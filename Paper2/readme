@@ -1,0 +1,11 @@
+This is implementaion for the following paper:- Improved Decremental Algorithms for maintaining transitive closure and All-pairs Shortest paths" by Baswana, Hariharan, and Sen
+
+Compile the code using makefile
+
+Graph is input in following format: 	
+first line contains two integer n(number of vertices) and m(number of edges), each of m subsequnet lines contains two integers describing the edge between two vertices.
+
+After taking graph as a input, there are 3 options:
+1) Delete edge   2) are u and v in same component ?  3) exit
+
+
